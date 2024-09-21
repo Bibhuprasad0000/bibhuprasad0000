@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bibhu Prasad Sethy</h1>
-<h3 align="center">A passionate Software developer.</h3>
+<h3 align="center">Full Stack Java Developer.</h3>
 
 <p align="left"> <img src="https://www.animaapp.com/blog/wp-content/uploads/2021/07/designergif.gif" alt="bibhuprasad0000" /> </p>
 
